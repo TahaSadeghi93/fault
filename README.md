@@ -1,1 +1,1 @@
-# fault
+Fault slip model.
